@@ -24,7 +24,7 @@
 
 | | |
 |---|---|
-| <br>**[My Personal Webapp](https://spiffy-semifreddo-f2b2f5.netlify.app/)** <img src="https://img.icons8.com/?size=120&id=4564MUHGIIbe&format=png" alt="Icon" width="18" /><br><br>[This was my first project and it is part of the full stack path on Scrimba. It includes a picture of me, fun facts about me, and a link to my LinkedIn profile.]<br><br><sub>[Tech Stack - HTML, CSS, JavaScript]</sub><br><br> | <br>
+| <br>**[My Personal Webapp](https://spiffy-semifreddo-f2b2f5.netlify.app/)** <img src="https://img.icons8.com/?size=120&id=4564MUHGIIbe&format=png" alt="Icon" width="18" /><br><br>This was my first project and it is part of the full stack path on Scrimba. It includes a picture of me, fun facts about me, and a link to my LinkedIn profile.<br><br><sub>[Tech Stack - HTML, CSS, JavaScript]</sub><br><br> | <br>
 
 ### 💬 Let's Connect!
 
