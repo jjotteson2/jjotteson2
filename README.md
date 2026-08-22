@@ -14,7 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Connect with me
-[LinkedIn](www.linkedin.com/in/jj-otteson-780a54296) • [My Scrimba Profile](https://scrimba.com/u445bd0e:scrims?via=u445bd0e) • [My Favorite Scrimba Course](https://scrimba.com/fullstack-path-c0fullstack?via=u445bd0e)
+[LinkedIn](https://www.linkedin.com/in/jj-otteson-780a54296/) • [My Scrimba Profile](https://scrimba.com/u445bd0e:scrims?via=u445bd0e) • [My Favorite Scrimba Course](https://scrimba.com/fullstack-path-c0fullstack?via=u445bd0e)
 
 [![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com?via=u445bd0e)
 
